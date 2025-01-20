@@ -45,12 +45,12 @@ namespace APISandbox.Controllers
 
         [Route("[action]")]
         [HttpPost]
-        public IEnumerable <WeatherForecast> Post(WeatherForecast weatherForecast)
+        public IEnumerable<WeatherForecast> Post(WeatherForecast weatherForecast)
         {
             List<WeatherForecast> weatherForecasts = Get().ToList();
             weatherForecasts.Add(weatherForecast);
             return weatherForecasts;
-            
+
         }
 
         [Route("[action]")]
@@ -67,15 +67,22 @@ namespace APISandbox.Controllers
 
         [Route("[action]")]
         [HttpPut]
-        public WeatherForecast Put(WeatherForecast weatherForecast)
+        public IEnumerable<WeatherForecast> Put(WeatherForecast newWeatherForecast)
         {
-            return new WeatherForecast
-            {
-                Date = weatherForecast.Date,
-                TemperatureC = weatherForecast.TemperatureC,
-                Summary = weatherForecast.Summary
-            };
-        }
+            List<WeatherForecast> weatherForecasts = Get().ToList();
+            WeatherForecast oldForecast = new WeatherForecast();
 
+            foreach (var item in weatherForecasts)
+            {
+                if (item.Date.ToString() == "2025-01-21" && item.Summary == "Cool")
+                {
+                    oldForecast = item;
+                    weatherForecasts.Remove(oldForecast);
+                    weatherForecasts.Add(newWeatherForecast);
+                }
+            }
+            return weatherForecasts;
+
+        }
     }
 }
