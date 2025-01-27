@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace APISandbox.Models;
 
@@ -10,6 +11,8 @@ public partial class Nationality
     public string Name { get; set; } = null!;
 
     public string? Code { get; set; }
+
+    [JsonIgnore]
 
     public virtual ICollection<Student> Students { get; set; } = new List<Student>();
 }

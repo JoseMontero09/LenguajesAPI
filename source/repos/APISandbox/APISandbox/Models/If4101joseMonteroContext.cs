@@ -6,10 +6,7 @@ namespace APISandbox.Models;
 
 public partial class If4101joseMonteroContext : DbContext
 {
-    public If4101joseMonteroContext()
-    {
-    }
-
+    //private readonly IConfiguration _configuration;
     public If4101joseMonteroContext(DbContextOptions<If4101joseMonteroContext> options)
         : base(options)
     {
@@ -22,7 +19,16 @@ public partial class If4101joseMonteroContext : DbContext
     public virtual DbSet<Student> Students { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Name=DefaultConnection");//modificar esto
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            optionsBuilder.UseSqlServer("DefaultConnection");
+        }
+    }
+
+
+
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

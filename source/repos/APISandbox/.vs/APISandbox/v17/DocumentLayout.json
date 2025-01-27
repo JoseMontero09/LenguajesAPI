@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\jopam\\source\\repos\\APISandbox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\models\\if4101josemonterocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\models\\if4101josemonterocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\apisandbox.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\apisandbox.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\models\\if4101josemonterocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\models\\if4101josemonterocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +43,12 @@
       "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\migrations\\20250121194032_newcolumnincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\migrations\\20250121194032_newcolumnincourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|c:\\users\\jopam\\source\\repos\\apisandbox\\apisandbox\\migrations\\20250121191403_initialchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F5A44D-9450-4F77-BD98-DAD52B369391}|APISandbox\\APISandbox.csproj|solutionrelative:apisandbox\\migrations\\20250121191403_initialchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +58,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APISandbox.http",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\APISandbox.http",
+              "RelativeDocumentMoniker": "APISandbox\\APISandbox.http",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\APISandbox.http",
+              "RelativeToolTip": "APISandbox\\APISandbox.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-21T22:06:55.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APISandbox\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\appsettings.Development.json",
+              "RelativeToolTip": "APISandbox\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T22:06:52.742Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APISandbox\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APISandbox\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:06:17.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250121194032_NewColumnInCourse.cs",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Migrations\\20250121194032_NewColumnInCourse.cs",
+              "RelativeDocumentMoniker": "APISandbox\\Migrations\\20250121194032_NewColumnInCourse.cs",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Migrations\\20250121194032_NewColumnInCourse.cs",
+              "RelativeToolTip": "APISandbox\\Migrations\\20250121194032_NewColumnInCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:40:32.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250121191403_InitialChanges.cs",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Migrations\\20250121191403_InitialChanges.cs",
+              "RelativeDocumentMoniker": "APISandbox\\Migrations\\20250121191403_InitialChanges.cs",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Migrations\\20250121191403_InitialChanges.cs",
+              "RelativeToolTip": "APISandbox\\Migrations\\20250121191403_InitialChanges.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:14:03.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Models\\Nationality.cs",
+              "RelativeDocumentMoniker": "APISandbox\\Models\\Nationality.cs",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Models\\Nationality.cs",
+              "RelativeToolTip": "APISandbox\\Models\\Nationality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:11:48.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "APISandbox\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Models\\Course.cs",
+              "RelativeToolTip": "APISandbox\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:11:05.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Program.cs",
+              "RelativeDocumentMoniker": "APISandbox\\Program.cs",
+              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Program.cs",
+              "RelativeToolTip": "APISandbox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:00:38.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "If4101joseMonteroContext.cs",
               "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Models\\If4101joseMonteroContext.cs",
               "RelativeDocumentMoniker": "APISandbox\\Models\\If4101joseMonteroContext.cs",
               "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Models\\If4101joseMonteroContext.cs",
               "RelativeToolTip": "APISandbox\\Models\\If4101joseMonteroContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBgAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T22:34:33.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T22:34:33.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\appsettings.json",
               "RelativeDocumentMoniker": "APISandbox\\appsettings.json",
@@ -55,12 +179,11 @@
               "RelativeToolTip": "APISandbox\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T22:31:34.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T22:31:34.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "APISandbox\\WeatherForecast.cs",
@@ -68,25 +191,11 @@
               "RelativeToolTip": "APISandbox\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:00:46.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:00:46.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Program.cs",
-              "RelativeDocumentMoniker": "APISandbox\\Program.cs",
-              "ToolTip": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Program.cs",
-              "RelativeToolTip": "APISandbox\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:00:38.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\jopam\\source\\repos\\APISandbox\\APISandbox\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "APISandbox\\Controllers\\WeatherForecastController.cs",
@@ -94,8 +203,7 @@
               "RelativeToolTip": "APISandbox\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T20:00:20.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T20:00:20.74Z"
             }
           ]
         }
