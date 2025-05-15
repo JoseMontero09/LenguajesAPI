@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": "6fb5",
+      "username": "minor",
+      "email": "minorhdez10@gmail.com",
+      "password": "Abcd%1234"
+    }
+  ],
+  "questions": [
+    {
+      "text": "How are you?",
+      "id": "3d79"
+    }
+  ]
+}
